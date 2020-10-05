@@ -1,0 +1,14 @@
+C:\Users\yuxin\Desktop\MITT\backend\YuxinLi_OOP_Assignment\YuxinLi_OOP_Assignment\bin\Debug\YuxinLi_OOP_Assignment.exe.config
+C:\Users\yuxin\Desktop\MITT\backend\YuxinLi_OOP_Assignment\YuxinLi_OOP_Assignment\bin\Debug\YuxinLi_OOP_Assignment.exe
+C:\Users\yuxin\Desktop\MITT\backend\YuxinLi_OOP_Assignment\YuxinLi_OOP_Assignment\bin\Debug\YuxinLi_OOP_Assignment.pdb
+C:\Users\yuxin\Desktop\MITT\backend\YuxinLi_OOP_Assignment\YuxinLi_OOP_Assignment\obj\Debug\YuxinLi_OOP_Assignment.csprojAssemblyReference.cache
+C:\Users\yuxin\Desktop\MITT\backend\YuxinLi_OOP_Assignment\YuxinLi_OOP_Assignment\obj\Debug\YuxinLi_OOP_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\yuxin\Desktop\MITT\backend\YuxinLi_OOP_Assignment\YuxinLi_OOP_Assignment\obj\Debug\YuxinLi_OOP_Assignment.exe
+C:\Users\yuxin\Desktop\MITT\backend\YuxinLi_OOP_Assignment\YuxinLi_OOP_Assignment\obj\Debug\YuxinLi_OOP_Assignment.pdb
+C:\Users\yuxin\Desktop\MITT\backend\OOP\YuxinLi_OOP_Assignment - 副本\YuxinLi_OOP_Assignment\bin\Debug\YuxinLi_OOP_Assignment.exe.config
+C:\Users\yuxin\Desktop\MITT\backend\OOP\YuxinLi_OOP_Assignment - 副本\YuxinLi_OOP_Assignment\bin\Debug\YuxinLi_OOP_Assignment.exe
+C:\Users\yuxin\Desktop\MITT\backend\OOP\YuxinLi_OOP_Assignment - 副本\YuxinLi_OOP_Assignment\bin\Debug\YuxinLi_OOP_Assignment.pdb
+C:\Users\yuxin\Desktop\MITT\backend\OOP\YuxinLi_OOP_Assignment - 副本\YuxinLi_OOP_Assignment\obj\Debug\YuxinLi_OOP_Assignment.csprojAssemblyReference.cache
+C:\Users\yuxin\Desktop\MITT\backend\OOP\YuxinLi_OOP_Assignment - 副本\YuxinLi_OOP_Assignment\obj\Debug\YuxinLi_OOP_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\yuxin\Desktop\MITT\backend\OOP\YuxinLi_OOP_Assignment - 副本\YuxinLi_OOP_Assignment\obj\Debug\YuxinLi_OOP_Assignment.exe
+C:\Users\yuxin\Desktop\MITT\backend\OOP\YuxinLi_OOP_Assignment - 副本\YuxinLi_OOP_Assignment\obj\Debug\YuxinLi_OOP_Assignment.pdb
